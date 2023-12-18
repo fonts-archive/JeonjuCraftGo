@@ -7,7 +7,7 @@
 ### CSS
 
 ```
-font-family: 'Jeonju Craft Go';
+font-family: 'Jeonju Craft Go', sans-serif;
 ```
 
 &nbsp;
